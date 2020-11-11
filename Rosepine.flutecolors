@@ -1,0 +1,27 @@
+{
+  "Name": "Rosé Pine",
+  "Author": "ThatOneCalculator",
+  "Colors": {
+    "Foreground": "#FFFFFF",
+    "Background": "#1F1D29",
+    "Cursor": "#FFFFFF",
+    "CursorAccent": "#C3A5E6",
+    "Selection": "rgba(195, 165, 230, 0.3)",
+    "Black": "#403c58",
+    "Red": "#ea6f91",
+    "Green": "#9bced7",
+    "Yellow": "#f1ca93",
+    "Blue": "#34738e",
+    "Magenta": "#c3a5e6",
+    "Cyan": "#eabbb9",
+    "White": "#faebd7",
+    "BrightBlack": "#6f6e85",
+    "BrightRed": "#ea6f91",
+    "BrightGreen": "#9bced7",
+    "BrightYellow": "#f1ca93",
+    "BrightBlue": "#34738e",
+    "BrightMagenta": "#AE81FF",
+    "BrightCyan": "#eabbb9",
+    "BrightWhite": "#ffffff"
+  }
+}
