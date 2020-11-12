@@ -17,3 +17,4 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 ### Screenshots
 
 ![preview](https://cdn.discordapp.com/attachments/767172954395639811/776236600799264768/unknown.png)
+![In settings](https://cdn.discordapp.com/attachments/767172954395639811/776237094779486218/unknown.png)
