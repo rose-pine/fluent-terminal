@@ -8,8 +8,12 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
 ### Instructions
 
-Soon
+1. Download the `Rosepine.flutecolors` file.
+2. Open Fluent Terminal, hit the 3 lines, and hit Settings.
+3. Navigate to Themes.
+4. Hit Import and select the file you just downloaded.
+5. Select Rosé Pine and hit Set Default
 
 ### Screenshots
 
-Soon
+![preview](https://cdn.discordapp.com/attachments/767172954395639811/776236600799264768/unknown.png)
