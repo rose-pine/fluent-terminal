@@ -19,3 +19,7 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
 ![Fluent Terminal with Rosé Pine](https://cdn.discordapp.com/attachments/767172954395639811/776236600799264768/unknown.png)
 ![Fluent Terminal theme settings](https://cdn.discordapp.com/attachments/767172954395639811/776237094779486218/unknown.png)
+
+## Thanks to 
+
+- [ThatOneCalculator](https://github.com/thatonecalculator)
