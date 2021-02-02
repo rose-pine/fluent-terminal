@@ -18,7 +18,7 @@
 4. Hit Import and select the file you just downloaded
 5. Select Rosé Pine and hit Set Default
 
-## Screenshots
+## Gallery
 
 ![Fluent Terminal with Rosé Pine](https://cdn.discordapp.com/attachments/767172954395639811/776236600799264768/unknown.png)
 ![Fluent Terminal theme settings](https://cdn.discordapp.com/attachments/767172954395639811/776237094779486218/unknown.png)
